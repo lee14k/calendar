@@ -23,11 +23,14 @@ class Calendar extends React.Component {
   }
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 66bf9c0 (trying to get working calendar)
 
 }
 =======
 
+=======
+>>>>>>> parent of 66bf9c0 (trying to get working calendar)
 
 export default Calendar
 >>>>>>> parent of 66bf9c0 (trying to get working calendar)
