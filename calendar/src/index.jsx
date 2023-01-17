@@ -13,4 +13,7 @@ import { render } from 'react-dom';
 import StorePicker from './components/storepicker'
 import Router from "./components/Router";
 render(<StorePicker />, document.querySelector('#root'))
+<<<<<<< HEAD
+>>>>>>> parent of 66bf9c0 (trying to get working calendar)
+=======
 >>>>>>> parent of 66bf9c0 (trying to get working calendar)
