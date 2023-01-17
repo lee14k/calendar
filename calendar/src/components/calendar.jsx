@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from "react";
 import moment from "moment";
 import "./calendar.css";
@@ -11,5 +12,16 @@ render () {
   )
 }
 
+=======
+import React from 'react';
+
+class Calendar extends React.Component {
+  render() {
+    return (
+      <p>Hey!</p>
+    )
+  }
+}
+>>>>>>> parent of 66bf9c0 (trying to get working calendar)
 
 }
