@@ -1,6 +1,17 @@
-export function generateCalendar (year, month) {
-let mon = month - 1
-  let d = new Date (year, mon)
- let table = '' 
-  
-}
+import moment from 'moment';
+
+
+
+function weekdayShortNames(){
+ let weekdayshort = moment.weekdaysShort()
+
+  this.weekdayshort.map(day=>{
+  return (
+    <div>
+    <th key={day} className="week-day">
+      {day}
+    </th>
+</div>
+  )})}
+
+export default weekdayShortNames
